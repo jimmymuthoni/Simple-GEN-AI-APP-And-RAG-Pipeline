@@ -1,4 +1,4 @@
-# 🧠 Simple RAG & GenAI Applications
+# Simple RAG & GenAI Applications
 
 This repository contains two lightweight Generative AI applications:
 
@@ -7,7 +7,7 @@ This repository contains two lightweight Generative AI applications:
 
 ---
 
-## 📈 Monitoring
+## Monitoring
 
 - **LangSmith** was used for monitoring LLM calls, prompt traces, and debugging.
 - Logs include model inputs, outputs, and time performance.
@@ -17,21 +17,21 @@ LangSmith helped ensure transparency, performance, and debugging efficiency duri
 ---
 ---
 
-## 📦 Features
+## Features
 
-### 🔍 RAG (Retrieval-Augmented Generation) App
+### RAG (Retrieval-Augmented Generation) App
 - Uses **LangChain** to retrieve "https://docs.smith.langchain.com/administration/tutorials/manage_spend" information.
 - Integrates with **LLM** to provide intelligent answers
 - Local document querying support
 
-### ✍️ Simple GenAI App With Gemma3
+### Simple GenAI App With Gemma3
 - Generates text based on custom prompts
 - Supports tasks like summarization, Q&A, and content generation
 - Lightweight and easy to extend
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **LangChain**
@@ -44,7 +44,7 @@ LangSmith helped ensure transparency, performance, and debugging efficiency duri
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/jimmymuthoni/Simple-GEN-AI-APP-And-RAG-Pipeline
